@@ -15,10 +15,15 @@ Features
 
 Technologies Used
 #Python: The primary programming language used for data processing and analysis.
+
 #Streamlit: Used to build the interactive web application.
+
 #Plotly: Utilized for creating dynamic and interactive visualizations.
+
 #MySQL: The database used to store and retrieve PhonePe data.
+
 #Pandas: Employed for data manipulation and analysis.
+
 ![Screenshot 2024-07-10 230443](https://github.com/brijesh2202/PhonePe-Data-Viz/assets/69802667/76ad36aa-8546-489c-b7e3-7a3faefcd491)
 ![Screenshot 2024-07-10 230410](https://github.com/brijesh2202/PhonePe-Data-Viz/assets/69802667/e85484e2-d8c1-4775-bd5e-183f2d2db2b0)
 ![Screenshot 2024-07-10 230537](https://github.com/brijesh2202/PhonePe-Data-Viz/assets/69802667/21ba09da-38f8-4ca0-8969-2005fed49743)
